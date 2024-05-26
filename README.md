@@ -11,7 +11,8 @@ Control Flow Graph
 
 Објаснување на тест примерите
 
-![SI Lab exc](https://github.com/MilenkoskiDarko/SI_2024_lab2_222088/assets/131350016/21d31c65-0977-43b3-a67c-56073f2d3bb5)
+![si labs excel](https://github.com/MilenkoskiDarko/SI_2024_lab2_222088/assets/131350016/eaf55a75-0a1d-47c1-bcbd-8ace866a0b29)
+
 
 Тест случаи според критериумот Multiple Condition
 за условот if (item.getPrice() > 300 && item.getDiscount() > 0 && item.getBarcode().charAt(0) == '0') -TTT -> item.price = 340; item.discount = 0.4; item.barcode = "0432"
